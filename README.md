@@ -12,4 +12,4 @@ A modern, responsive landing page built with React and Tailwind CSS.
 
 -Clean, modern UI components
 
--Fast development with Vite or Create React App
+-Fast development with Vite+React
